@@ -8,7 +8,7 @@ import Flutter
 import UIKit
 #endif
 
-public enum SignInWithAppleError {
+public enum SignInWithAppleGenericError {
     // An error for the case we are running on a not supported platform
     //
     // We currently support macOS 10.15 or higher and iOS 13 or higher
